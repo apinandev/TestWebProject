@@ -4,4 +4,4 @@
 [Apinan Woratrakun](mailto:apinan@iotech.co.th)
 
 # License
-MIT
+GNU2.0
